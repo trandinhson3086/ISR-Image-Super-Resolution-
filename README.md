@@ -16,4 +16,4 @@ TEST_RDN.ipynb
 * [Image Super-Resolution (ISR)] https://pypi.org/project/ISR/
 
 
-Tran Dinh-Son from AIthe
+
