@@ -7,8 +7,12 @@ Python 3.6
 ```
 pip install ISR
 ```
+### Prediction
+```
+TEST_RDN.ipynb
+```
 
-References:
+#### References:
 * [Image Super-Resolution (ISR)] https://pypi.org/project/ISR/
 
 
