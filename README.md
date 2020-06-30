@@ -1,8 +1,7 @@
-# ISR
-ISR (Image Super-Resolution)
+# ISR (Image Super-Resolution)
 
+Upscale and improve the quality of low resolution images.
 
-Tran Dinh-Son from AIthe
 ### Installation
 Python 3.6 
 ```
@@ -11,3 +10,6 @@ pip install ISR
 
 References:
 * [Image Super-Resolution (ISR)] https://pypi.org/project/ISR/
+
+
+Tran Dinh-Son from AIthe
